@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/development-test/static/css/main.f96ef3b1.chunk.css",
+    "main.js": "/development-test/static/js/main.18e9e3e2.chunk.js",
+    "main.js.map": "/development-test/static/js/main.18e9e3e2.chunk.js.map",
+    "runtime-main.js": "/development-test/static/js/runtime-main.a5f1a0e2.js",
+    "runtime-main.js.map": "/development-test/static/js/runtime-main.a5f1a0e2.js.map",
+    "static/js/2.32c55941.chunk.js": "/development-test/static/js/2.32c55941.chunk.js",
+    "static/js/2.32c55941.chunk.js.map": "/development-test/static/js/2.32c55941.chunk.js.map",
+    "index.html": "/development-test/index.html",
+    "precache-manifest.a1276a88e400e2178e0f48f65beb83ab.js": "/development-test/precache-manifest.a1276a88e400e2178e0f48f65beb83ab.js",
+    "service-worker.js": "/development-test/service-worker.js",
+    "static/css/main.f96ef3b1.chunk.css.map": "/development-test/static/css/main.f96ef3b1.chunk.css.map",
+    "static/js/2.32c55941.chunk.js.LICENSE.txt": "/development-test/static/js/2.32c55941.chunk.js.LICENSE.txt",
+    "static/media/leftArrow.be839b56.svg": "/development-test/static/media/leftArrow.be839b56.svg",
+    "static/media/rightArrow.6df5f90d.svg": "/development-test/static/media/rightArrow.6df5f90d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5f1a0e2.js",
+    "static/js/2.32c55941.chunk.js",
+    "static/css/main.f96ef3b1.chunk.css",
+    "static/js/main.18e9e3e2.chunk.js"
+  ]
+}
